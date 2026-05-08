@@ -1,5 +1,9 @@
 # CNN — GoogLeNet Inception V1: Classificação Binária de Pneumonia
 
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
+
 Adaptação da arquitetura **GoogLeNet Inception V1** para classificação binária de radiografias de tórax, distinguindo casos de **Pneumonia** e pulmões **Normais**. Desenvolvido como trabalho acadêmico de Deep Learning, executado inteiramente no **Kaggle** (GPU NVIDIA Tesla T4 ×2) e versionado via **GitHub**.
 
 ---
